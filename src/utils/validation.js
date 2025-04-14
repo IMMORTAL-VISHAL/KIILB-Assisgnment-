@@ -1,4 +1,3 @@
-// src/utils/validation.js
 export const validateEmail = (email) =>
     /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
   

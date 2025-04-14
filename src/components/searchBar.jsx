@@ -1,4 +1,3 @@
-// src/components/SearchBar.jsx
 import React from 'react';
 
 const SearchBar = ({ emailQuery, setEmailQuery, suggestions, onSelect }) => {

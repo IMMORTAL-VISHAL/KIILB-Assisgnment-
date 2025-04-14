@@ -1,4 +1,3 @@
-// src/components/UserForm.jsx
 import React, { useState } from "react";
 import { validateEmail, validatePhone } from "../utils/validation";
 
